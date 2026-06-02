@@ -18,4 +18,4 @@ This repository contains:
 - Crontab
 - Troubleshooting
 
-Author: Jansi
+

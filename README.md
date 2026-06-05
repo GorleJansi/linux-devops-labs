@@ -18,5 +18,3 @@ This repository contains:
 - Crontab
 - Troubleshooting
 - Linux admin
-
-x
